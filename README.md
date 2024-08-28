@@ -1,5 +1,5 @@
 - 👋 OLÁ, Eu sou o @Yurek4
-- 👀 Estou em busca do meu primeiro estagio na área de programação!
+- 👀 aTUALMENTE FAZENDO ESTÁGIO NA CORTEVA AGRISCIENCE
 - 🌱 No momento estou aprendendo Java e banco de dados!
 - 📫 Para entrar em contato:
   Email: yuri.souza02@outlook.com
