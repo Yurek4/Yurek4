@@ -5,9 +5,7 @@
   Email: yuri.souza02@outlook.com
 - 😄 Pronouns: ELE/DELE
 - ⚡ Fun fact: Trabalho como eletricista a 2 anos.
-  Já trabalhei na Unilever.
-  Trabalho na Bosch.
-  E sei programar em LADDER.
+  
   
 
 <!---
