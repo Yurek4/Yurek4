@@ -1,6 +1,6 @@
 - 👋 OLÁ, Eu sou o @Yurek4
-- 👀 aTUALMENTE FAZENDO ESTÁGIO NA CORTEVA AGRISCIENCE
-- 🌱 No momento estou aprendendo Java e banco de dados!
+- 👀 ATUALMENTE FAZENDO ESTÁGIO NA CORTEVA AGRISCIENCE
+- 🌱 No momento estou aprendendo PYTHON
 - 📫 Para entrar em contato:
   Email: yuri.souza02@outlook.com
 - 😄 Pronouns: ELE/DELE
