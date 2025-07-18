@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Estagiário de TI na <strong>Corteva</strong> <br>
-  📍 Ribeirão Preto - SP, Brasil <br>
+  📍 Campinas - SP, Brasil <br>
   🎯 Focado em SAP, RPA e automações <br>
 </p>
 
