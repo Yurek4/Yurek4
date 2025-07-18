@@ -10,7 +10,7 @@
 
 ### 🧠 Sobre mim
 
-Sou estudante de TI e atualmente atuo como estagiário na Corteva, onde participo da implementação de mudanças no SAP, com foco nos módulos **PP (Planejamento da Produção)** e **PM (Manutenção)**.
+Sou estudante de TI e atualmente atuo como estagiário na Corteva, onde participo da implementação de mudanças no SAP, com foco nos módulos **PP, QM e PM **.
 
 Faço parte de uma squad de **RPA**, automatizando processos dentro do SAP com ferramentas como **Automation Anywhere**. Também sou responsável por apresentar e documentar as alterações nos robôs.
 
