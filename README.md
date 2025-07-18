@@ -37,9 +37,10 @@ Estou sempre buscando aprender novas tecnologias e aplicar automações que gere
 
 ---
 
-### 📌 Projetos em Destaque
+### 📌 Estutando Atualmente
 
-- 
+- Ciência de dados
+- 📈 Em breve: projetos de **Data Science** com análise e visualização de dados.
 
 ---
 
