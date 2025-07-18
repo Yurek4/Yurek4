@@ -21,11 +21,10 @@ Estou sempre buscando aprender novas tecnologias e aplicar automações que gere
 ### 🚀 Tecnologias que utilizo
 
 - 🟦 SAP PP, PM, QM e PS
-- 🤖 RPA (Automation Anywhere | UiPath | Power Automate)
+- 🤖 RPA (Automation Anywhere | Python )
 - 🐍 Python
-- 💻 JavaScript | Node.js
 - 📁 Git | GitHub
-- 🛠️ Power Automate, Excel Avançado
+
 
 ---
 
@@ -40,15 +39,13 @@ Estou sempre buscando aprender novas tecnologias e aplicar automações que gere
 
 ### 📌 Projetos em Destaque
 
-- 🎲 [`sorteio-rifa`](https://github.com/Yurek4/sorteio-rifa) - Sistema simples de rifas com sorteio aleatório em Python.
-- 🤖 [`rpa`](https://github.com/Yurek4/rpa) - Scripts e automações para SAP usando RPA.
-- 💬 [`ChatBot`](https://github.com/Yurek4/ChatBot) - Bot para responder mensagens automaticamente.
+- 
 
 ---
 
 ### 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
+- [LinkedIn](https://www.linkedin.com/in/yuri-rafael/)  
 - [E-mail](mailto:seu@email.com)
 
 ---
