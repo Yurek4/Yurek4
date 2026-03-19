@@ -12,16 +12,12 @@
 
 Sou estudante de TI e atualmente atuo como estagiário na Corteva, onde participo da implementação de mudanças no SAP, com foco nos módulos **PP, QM e PM **.
 
-Faço parte de uma squad de **RPA**, automatizando processos dentro do SAP com ferramentas como **Automation Anywhere**. Também sou responsável por apresentar e documentar as alterações nos robôs.
-
-Estou sempre buscando aprender novas tecnologias e aplicar automações que gerem impacto real no dia a dia da empresa. 🚀
-
 ---
 
 ### 🚀 Tecnologias que utilizo
 
 - 🟦 SAP PP, PM, QM e PS
-- 🤖 RPA (Automation Anywhere | Python )
+- 🤖 RPA (Automation Anywhere | Java | OOP | )
 - 🐍 Python
 - 📁 Git | GitHub
 
@@ -39,15 +35,14 @@ Estou sempre buscando aprender novas tecnologias e aplicar automações que gere
 
 ### 📌 Estutando Atualmente
 
-- Ciência de dados
-- 📈 Em breve: projetos de **Data Science** com análise e visualização de dados.
+- JAVA
 
 ---
 
 ### 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/yuri-rafael/)  
-- [E-mail](mailto:seu@email.com)
+- [E-mail](yuri.rafael@iclound.com)
 
 ---
 
